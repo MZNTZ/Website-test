@@ -18,9 +18,9 @@ export default function RootLayout({
           alt={"logo"}
         />
         <Link href="/">
-          <h1 className="text-2xl text-white font-bold mt-4">Jack's Blog</h1>
+          <h1 className="text-2xl text-white font-bold mt-4">Prototype</h1>
         </Link>
-        <p className="text-slate-300">🤟 Welcome to my tech blog. 💻</p>
+        <p className="text-slate-300">This is a Prototype.</p>
       </div>
     </header>
   );
